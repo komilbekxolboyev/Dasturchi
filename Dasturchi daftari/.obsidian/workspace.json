@@ -122,9 +122,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebd359b25bdafc3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end/HTML/Asosiy css..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/Youtube.html.md",
+                "file": "Front-end/HTML/Asosiy css..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/Youtube.html.md",
+                "file": "Front-end/HTML/Asosiy css..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/Youtube.html.md"
+                "file": "Front-end/HTML/Asosiy css..md"
               }
             }
           }
@@ -251,16 +263,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda4609a08843bcf",
+  "active": "ebd359b25bdafc3f",
   "lastOpenFiles": [
+    "Front-end/Youtube.html.md",
+    "Front-end/HTML/Asosiy css..md",
+    "Untitled 1.md",
     "Pasted image 20231226165321.png",
     "Front-end/HTML/Forma bilan ishlash..md",
-    "Front-end/Youtube.html.md",
     "Klavitura kambinatsiyalari..md",
     "Maqsad..md",
     "Matn.html.md",
     "Lug'atim.html.md",
-    "Untitled 1.md",
     "Front-end/HTML/Hr va marquee teglari..md",
     "intenet_ishlashi_asosit_tushuncha.png",
     "Pasted image 20231217194125.png",
